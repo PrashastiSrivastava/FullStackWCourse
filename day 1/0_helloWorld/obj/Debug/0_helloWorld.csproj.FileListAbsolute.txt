@@ -1,0 +1,7 @@
+C:\Users\Prashasti\source\repos\wipro course\day 1\0_helloWorld\bin\Debug\0_helloWorld.exe.config
+C:\Users\Prashasti\source\repos\wipro course\day 1\0_helloWorld\bin\Debug\0_helloWorld.exe
+C:\Users\Prashasti\source\repos\wipro course\day 1\0_helloWorld\bin\Debug\0_helloWorld.pdb
+C:\Users\Prashasti\source\repos\wipro course\day 1\0_helloWorld\obj\Debug\0_helloWorld.csproj.AssemblyReference.cache
+C:\Users\Prashasti\source\repos\wipro course\day 1\0_helloWorld\obj\Debug\0_helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Prashasti\source\repos\wipro course\day 1\0_helloWorld\obj\Debug\0_helloWorld.exe
+C:\Users\Prashasti\source\repos\wipro course\day 1\0_helloWorld\obj\Debug\0_helloWorld.pdb
