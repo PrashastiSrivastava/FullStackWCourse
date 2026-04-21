@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\obj\Debug\net10.0\1_E-Commerce_Order_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\obj\Debug\net10.0\1_E-Commerce_Order_Management_System.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\obj\Debug\net10.0\1_E-Commerce_Order_Management_System.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\obj\Debug\net10.0\1_E-Commerce_Order_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\bin\Debug\net10.0\1_E-Commerce_Order_Management_System.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\bin\Debug\net10.0\1_E-Commerce_Order_Management_System.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\bin\Debug\net10.0\1_E-Commerce_Order_Management_System.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\bin\Debug\net10.0\1_E-Commerce_Order_Management_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\bin\Debug\net10.0\1_E-Commerce_Order_Management_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\obj\Debug\net10.0\1_E-Commerce_Order_Management_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\obj\Debug\net10.0\refint\1_E-Commerce_Order_Management_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\obj\Debug\net10.0\1_E-Commerce_Order_Management_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\obj\Debug\net10.0\1_E-Commerce_Order_Management_System.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_4\1_E-Commerce_Order_Management_System\obj\Debug\net10.0\ref\1_E-Commerce_Order_Management_System.dll

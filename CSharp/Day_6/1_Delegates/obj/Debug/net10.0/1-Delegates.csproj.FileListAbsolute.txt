@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\bin\Debug\net10.0\1-Delegates.exe
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\bin\Debug\net10.0\1-Delegates.deps.json
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\bin\Debug\net10.0\1-Delegates.runtimeconfig.json
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\bin\Debug\net10.0\1-Delegates.dll
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\bin\Debug\net10.0\1-Delegates.pdb
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\obj\Debug\net10.0\1-Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\obj\Debug\net10.0\1-Delegates.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\obj\Debug\net10.0\1-Delegates.AssemblyInfo.cs
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\obj\Debug\net10.0\1-Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\obj\Debug\net10.0\1-Delegates.dll
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\obj\Debug\net10.0\refint\1-Delegates.dll
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\obj\Debug\net10.0\1-Delegates.pdb
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\obj\Debug\net10.0\1-Delegates.genruntimeconfig.cache
+C:\Users\Rishabh\Downloads\Wipro_Skilling\W_Skilling\CSharp\Day_6\Delegates\obj\Debug\net10.0\ref\1-Delegates.dll

@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\bin\Debug\net10.0\AddTwoNumbers.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\bin\Debug\net10.0\AddTwoNumbers.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\bin\Debug\net10.0\AddTwoNumbers.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\bin\Debug\net10.0\AddTwoNumbers.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\bin\Debug\net10.0\AddTwoNumbers.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\obj\Debug\net10.0\AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\obj\Debug\net10.0\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\obj\Debug\net10.0\AddTwoNumbers.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\obj\Debug\net10.0\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\obj\Debug\net10.0\AddTwoNumbers.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\obj\Debug\net10.0\refint\AddTwoNumbers.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\obj\Debug\net10.0\AddTwoNumbers.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\obj\Debug\net10.0\AddTwoNumbers.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\AddTwoNumbers\obj\Debug\net10.0\ref\AddTwoNumbers.dll

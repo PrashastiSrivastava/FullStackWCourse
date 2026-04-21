@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\bin\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\bin\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\refint\3_News_Agency_Publisher_Subscriber_Model.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\bin\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\bin\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\bin\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\ref\3_News_Agency_Publisher_Subscriber_Model.dll

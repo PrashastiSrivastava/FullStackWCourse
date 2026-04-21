@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\bin\Debug\net10.0\1-CSharpAdvanceFeatures.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\bin\Debug\net10.0\1-CSharpAdvanceFeatures.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\bin\Debug\net10.0\1-CSharpAdvanceFeatures.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\bin\Debug\net10.0\1-CSharpAdvanceFeatures.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\bin\Debug\net10.0\1-CSharpAdvanceFeatures.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\obj\Debug\net10.0\1-CSharpAdvanceFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\obj\Debug\net10.0\1-CSharpAdvanceFeatures.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\obj\Debug\net10.0\1-CSharpAdvanceFeatures.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\obj\Debug\net10.0\1-CSharpAdvanceFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\obj\Debug\net10.0\1-CSharpAdvanceFeatures.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\obj\Debug\net10.0\refint\1-CSharpAdvanceFeatures.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\obj\Debug\net10.0\1-CSharpAdvanceFeatures.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\obj\Debug\net10.0\1-CSharpAdvanceFeatures.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_5\1-CSharpAdvanceFeatures\obj\Debug\net10.0\ref\1-CSharpAdvanceFeatures.dll

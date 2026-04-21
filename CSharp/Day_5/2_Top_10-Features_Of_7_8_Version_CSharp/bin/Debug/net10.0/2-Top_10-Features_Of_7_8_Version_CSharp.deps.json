@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "2-Top_10-Features_Of_7_8_Version_CSharp/1.0.0": {
+        "runtime": {
+          "2-Top_10-Features_Of_7_8_Version_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2-Top_10-Features_Of_7_8_Version_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

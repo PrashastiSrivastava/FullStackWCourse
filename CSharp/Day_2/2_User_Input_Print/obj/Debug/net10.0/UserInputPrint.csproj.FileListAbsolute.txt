@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\bin\Debug\net10.0\UserInputPrint.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\bin\Debug\net10.0\UserInputPrint.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\bin\Debug\net10.0\UserInputPrint.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\bin\Debug\net10.0\UserInputPrint.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\bin\Debug\net10.0\UserInputPrint.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\obj\Debug\net10.0\UserInputPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\obj\Debug\net10.0\UserInputPrint.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\obj\Debug\net10.0\UserInputPrint.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\obj\Debug\net10.0\UserInputPrint.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\obj\Debug\net10.0\UserInputPrint.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\obj\Debug\net10.0\refint\UserInputPrint.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\obj\Debug\net10.0\UserInputPrint.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\obj\Debug\net10.0\UserInputPrint.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_2\UserInputPrint\obj\Debug\net10.0\ref\UserInputPrint.dll
