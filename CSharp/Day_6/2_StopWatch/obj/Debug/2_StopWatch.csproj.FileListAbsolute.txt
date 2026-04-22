@@ -1,0 +1,10 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\obj\Debug\2_StopWatch.csproj.AssemblyReference.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\obj\Debug\_2_StopWatch.Form1.resources
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\obj\Debug\_2_StopWatch.Properties.Resources.resources
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\obj\Debug\2_StopWatch.csproj.GenerateResource.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\obj\Debug\2_StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\bin\Debug\2_StopWatch.exe.config
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\bin\Debug\2_StopWatch.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\bin\Debug\2_StopWatch.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\obj\Debug\2_StopWatch.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\2_StopWatch\obj\Debug\2_StopWatch.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\5_FileHandling\bin\Debug\5_FileHandling.exe.config
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\5_FileHandling\bin\Debug\5_FileHandling.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\5_FileHandling\bin\Debug\5_FileHandling.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\5_FileHandling\obj\Debug\5_FileHandling.csproj.AssemblyReference.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\5_FileHandling\obj\Debug\5_FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\5_FileHandling\obj\Debug\5_FileHandling.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\5_FileHandling\obj\Debug\5_FileHandling.pdb

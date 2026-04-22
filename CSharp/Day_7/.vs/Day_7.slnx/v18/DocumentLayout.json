@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F24A37-FED8-6B02-1DC8-9DD6D176FD00}|4_Indexers_Properties\\4_Indexers_Properties.csproj|c:\\users\\prashasti\\desktop\\wipro\\csharp\\day_7\\4_indexers_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F24A37-FED8-6B02-1DC8-9DD6D176FD00}|4_Indexers_Properties\\4_Indexers_Properties.csproj|solutionrelative:4_indexers_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\4_Indexers_Properties\\Program.cs",
+              "RelativeDocumentMoniker": "4_Indexers_Properties\\Program.cs",
+              "ToolTip": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\4_Indexers_Properties\\Program.cs",
+              "RelativeToolTip": "4_Indexers_Properties\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAUOvtvxcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T07:17:43.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
