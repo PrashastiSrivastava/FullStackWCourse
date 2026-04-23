@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1_CSharp_Advanced_Features")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1302247ca0989d99781abaf1ea83251a1f900a99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f7648355853219986c0a4046a5c4546e8c12e60")]
 [assembly: System.Reflection.AssemblyProductAttribute("1_CSharp_Advanced_Features")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1_CSharp_Advanced_Features")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

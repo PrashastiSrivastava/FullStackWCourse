@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_4\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{956A0CEB-6A96-4001-BF4B-50E4F086B1BD}|5_Task_Scheduler_System\\5_Task_Scheduler_System.csproj|c:\\users\\rishabh\\documents\\wipro_items\\wipro_skilling\\csharp\\day_4\\5_task_scheduler_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956A0CEB-6A96-4001-BF4B-50E4F086B1BD}|5_Task_Scheduler_System\\5_Task_Scheduler_System.csproj|solutionrelative:5_task_scheduler_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956A0CEB-6A96-4001-BF4B-50E4F086B1BD}|5_Task_Scheduler_System\\5_Task_Scheduler_System.csproj|c:\\users\\rishabh\\documents\\wipro_items\\wipro_skilling\\csharp\\day_4\\5_task_scheduler_system\\services\\schedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956A0CEB-6A96-4001-BF4B-50E4F086B1BD}|5_Task_Scheduler_System\\5_Task_Scheduler_System.csproj|solutionrelative:5_task_scheduler_system\\services\\schedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956A0CEB-6A96-4001-BF4B-50E4F086B1BD}|5_Task_Scheduler_System\\5_Task_Scheduler_System.csproj|c:\\users\\rishabh\\documents\\wipro_items\\wipro_skilling\\csharp\\day_4\\5_task_scheduler_system\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956A0CEB-6A96-4001-BF4B-50E4F086B1BD}|5_Task_Scheduler_System\\5_Task_Scheduler_System.csproj|solutionrelative:5_task_scheduler_system\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956A0CEB-6A96-4001-BF4B-50E4F086B1BD}|5_Task_Scheduler_System\\5_Task_Scheduler_System.csproj|c:\\users\\rishabh\\documents\\wipro_items\\wipro_skilling\\csharp\\day_4\\5_task_scheduler_system\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{956A0CEB-6A96-4001-BF4B-50E4F086B1BD}|5_Task_Scheduler_System\\5_Task_Scheduler_System.csproj|solutionrelative:5_task_scheduler_system\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScheduleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_4\\5_Task_Scheduler_System\\Services\\ScheduleManager.cs",
+              "RelativeDocumentMoniker": "5_Task_Scheduler_System\\Services\\ScheduleManager.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_4\\5_Task_Scheduler_System\\Services\\ScheduleManager.cs*",
+              "RelativeToolTip": "5_Task_Scheduler_System\\Services\\ScheduleManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:45:02.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_4\\5_Task_Scheduler_System\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "5_Task_Scheduler_System\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_4\\5_Task_Scheduler_System\\Models\\TaskItem.cs*",
+              "RelativeToolTip": "5_Task_Scheduler_System\\Models\\TaskItem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:44:23.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_4\\5_Task_Scheduler_System\\Readme.md",
+              "RelativeDocumentMoniker": "5_Task_Scheduler_System\\Readme.md",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_4\\5_Task_Scheduler_System\\Readme.md",
+              "RelativeToolTip": "5_Task_Scheduler_System\\Readme.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-23T09:41:42.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_4\\5_Task_Scheduler_System\\Program.cs",
+              "RelativeDocumentMoniker": "5_Task_Scheduler_System\\Program.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_4\\5_Task_Scheduler_System\\Program.cs",
+              "RelativeToolTip": "5_Task_Scheduler_System\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:41:31.695Z",
+              "EditorCaption": ""
             }
           ]
         }

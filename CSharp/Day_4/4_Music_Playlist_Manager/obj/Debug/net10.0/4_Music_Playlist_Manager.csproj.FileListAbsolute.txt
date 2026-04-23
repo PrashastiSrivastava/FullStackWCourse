@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\4_Music_Playlist_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\4_Music_Playlist_Manager.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\4_Music_Playlist_Manager.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\4_Music_Playlist_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\4_Music_Playlist_Manager.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\bin\Debug\net10.0\4_Music_Playlist_Manager.exe
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\bin\Debug\net10.0\4_Music_Playlist_Manager.deps.json
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\bin\Debug\net10.0\4_Music_Playlist_Manager.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\bin\Debug\net10.0\4_Music_Playlist_Manager.dll
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\bin\Debug\net10.0\4_Music_Playlist_Manager.pdb
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\4_Music_Playlist_Manager.dll
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\refint\4_Music_Playlist_Manager.dll
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\4_Music_Playlist_Manager.pdb
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\4_Music_Playlist_Manager.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\4_Music_Playlist_Manager\obj\Debug\net10.0\ref\4_Music_Playlist_Manager.dll

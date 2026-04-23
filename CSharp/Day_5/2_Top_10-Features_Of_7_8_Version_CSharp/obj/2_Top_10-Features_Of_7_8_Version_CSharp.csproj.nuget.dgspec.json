@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj": {}
+    "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj": {
+    "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj",
         "projectName": "2_Top_10-Features_Of_7_8_Version_CSharp",
-        "projectPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj",
+        "projectPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj",
         "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\obj\\",
+        "outputPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",

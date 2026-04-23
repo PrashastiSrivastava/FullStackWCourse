@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj": {}
+    "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj": {
+    "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj",
+        "projectUniqueName": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj",
         "projectName": "1_CSharp_Advanced_Features",
-        "projectPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj",
+        "projectPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj",
         "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\obj\\",
+        "outputPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",

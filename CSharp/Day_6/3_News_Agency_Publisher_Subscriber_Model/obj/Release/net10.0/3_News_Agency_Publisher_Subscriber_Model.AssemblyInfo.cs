@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3_News_Agency_Publisher_Subscriber_Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f7648355853219986c0a4046a5c4546e8c12e60")]
 [assembly: System.Reflection.AssemblyProductAttribute("3_News_Agency_Publisher_Subscriber_Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3_News_Agency_Publisher_Subscriber_Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

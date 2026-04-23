@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\bin\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.exe
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\bin\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.deps.json
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\bin\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\bin\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.dll
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\bin\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.pdb
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.dll
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\refint\2_Top_10-Features_Of_7_8_Version_CSharp.dll
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.pdb
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\2_Top_10-Features_Of_7_8_Version_CSharp.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_5\2_Top_10-Features_Of_7_8_Version_CSharp\obj\Debug\net10.0\ref\2_Top_10-Features_Of_7_8_Version_CSharp.dll

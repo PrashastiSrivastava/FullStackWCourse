@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\",
+  "WorkspaceRootPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{076D8FCF-89FC-F320-47BD-EE75B469402D}|1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\csharp\\day_5\\1_csharp_advanced_features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076D8FCF-89FC-F320-47BD-EE75B469402D}|1_CSharp_Advanced_Features\\1_CSharp_Advanced_Features.csproj|solutionrelative:1_csharp_advanced_features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4085FA1F-8D47-FE5C-5FF3-6311F3FBB826}|2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\csharp\\day_5\\2_top_10-features_of_7_8_version_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4085FA1F-8D47-FE5C-5FF3-6311F3FBB826}|2_Top_10-Features_Of_7_8_Version_CSharp\\2_Top_10-Features_Of_7_8_Version_CSharp.csproj|solutionrelative:2_top_10-features_of_7_8_version_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DA839D3-2DD7-2AEB-72BA-B6A53F756622}|3_CSharp_ExceptionHandling_CaseStudy_Assignment\\3_CSharp_ExceptionHandling_CaseStudy_Assignment.csproj|c:\\users\\rishabh\\documents\\wipro_items\\wipro_skilling\\csharp\\day_5\\3_csharp_exceptionhandling_casestudy_assignment\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9DA839D3-2DD7-2AEB-72BA-B6A53F756622}|3_CSharp_ExceptionHandling_CaseStudy_Assignment\\3_CSharp_ExceptionHandling_CaseStudy_Assignment.csproj|solutionrelative:3_csharp_exceptionhandling_casestudy_assignment\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\Program.cs",
-              "RelativeDocumentMoniker": "2_Top_10-Features_Of_7_8_Version_CSharp\\Program.cs",
-              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\2_Top_10-Features_Of_7_8_Version_CSharp\\Program.cs",
-              "RelativeToolTip": "2_Top_10-Features_Of_7_8_Version_CSharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:21:28.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\Program.cs",
-              "RelativeDocumentMoniker": "1_CSharp_Advanced_Features\\Program.cs",
-              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_5\\1_CSharp_Advanced_Features\\Program.cs",
-              "RelativeToolTip": "1_CSharp_Advanced_Features\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:21:26.141Z",
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\3_CSharp_ExceptionHandling_CaseStudy_Assignment\\Readme.md",
+              "RelativeDocumentMoniker": "3_CSharp_ExceptionHandling_CaseStudy_Assignment\\Readme.md",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Items\\Wipro_Skilling\\CSharp\\Day_5\\3_CSharp_ExceptionHandling_CaseStudy_Assignment\\Readme.md",
+              "RelativeToolTip": "3_CSharp_ExceptionHandling_CaseStudy_Assignment\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-23T10:32:10.337Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\5_Task_Scheduler_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\5_Task_Scheduler_System.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\5_Task_Scheduler_System.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\5_Task_Scheduler_System.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\5_Task_Scheduler_System.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\bin\Debug\net10.0\5_Task_Scheduler_System.exe
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\bin\Debug\net10.0\5_Task_Scheduler_System.deps.json
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\bin\Debug\net10.0\5_Task_Scheduler_System.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\bin\Debug\net10.0\5_Task_Scheduler_System.dll
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\bin\Debug\net10.0\5_Task_Scheduler_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\5_Task_Scheduler_System.dll
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\refint\5_Task_Scheduler_System.dll
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\5_Task_Scheduler_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\5_Task_Scheduler_System.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Items\Wipro_Skilling\CSharp\Day_4\5_Task_Scheduler_System\obj\Debug\net10.0\ref\5_Task_Scheduler_System.dll
