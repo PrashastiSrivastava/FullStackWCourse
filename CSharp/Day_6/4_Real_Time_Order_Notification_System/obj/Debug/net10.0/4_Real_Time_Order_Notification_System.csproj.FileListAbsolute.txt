@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\bin\Debug\net10.0\4_Real_Time_Order_Notification_System.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\bin\Debug\net10.0\4_Real_Time_Order_Notification_System.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\bin\Debug\net10.0\4_Real_Time_Order_Notification_System.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\bin\Debug\net10.0\4_Real_Time_Order_Notification_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\bin\Debug\net10.0\4_Real_Time_Order_Notification_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\4_Real_Time_Order_Notification_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\4_Real_Time_Order_Notification_System.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\4_Real_Time_Order_Notification_System.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\4_Real_Time_Order_Notification_System.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\4_Real_Time_Order_Notification_System.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\4_Real_Time_Order_Notification_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\refint\4_Real_Time_Order_Notification_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\4_Real_Time_Order_Notification_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\4_Real_Time_Order_Notification_System.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\4_Real_Time_Order_Notification_System\obj\Debug\net10.0\ref\4_Real_Time_Order_Notification_System.dll

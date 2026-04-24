@@ -12,3 +12,4 @@ C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_S
 C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\bin\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.pdb
 C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.genruntimeconfig.cache
 C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\ref\3_News_Agency_Publisher_Subscriber_Model.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_6\3_News_Agency_Publisher_Subscriber_Model\obj\Debug\net10.0\3_News_Agency_Publisher_Subscriber_Model.sourcelink.json

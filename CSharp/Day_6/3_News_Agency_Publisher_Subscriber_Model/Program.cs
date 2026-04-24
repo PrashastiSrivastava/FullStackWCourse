@@ -25,66 +25,47 @@
 using _3_News_Agency_Publisher_Subscriber_Model;
 using System.Reflection.Metadata;
 
-Console.WriteLine("=== News Agency Publisher-subsriber Demo ===");
+Console.WriteLine("=== News Agency Publisher-Subscriber Demo ===");
 
+// Step 7:- Create Publisher (News Agency)
+NewsAgency NDTV = new NewsAgency("NDTV News Agency");
+NewsAgency BBC = new NewsAgency("BBC News Agency");
 
-// Srtep 7:- Create Publisher (News Agency)
-NewsAgency NDTV = new NewsAgency("NDTV news Agency");
-NewsAgency BBC = new NewsAgency("BBC news Agency");
+// Step 8:- Create Subscribers (Readers) - Maximum 4 subscribers
+Reader rajesh = new Reader("Rajesh Kumar");
+Reader priya = new Reader("Priya Sharma");
+Reader amit = new Reader("Amit Patel");
+Reader neha = new Reader("Neha Singh");
 
-// Step 8:- Create Subscriber (Readers)
-Reader rish = new Reader("Rishabh");
-Reader glory = new Reader("Glory");
-Reader akansha = new Reader("Akansha");
-Reader shalini = new Reader("Shalini");
-Reader anil = new Reader("Anil");
+// Step 9:- Readers subscribe to specific topics (each subscribes to 2-3 topics)
 
-// Step 9:- Readers subcribe to specific topics.
+// Rajesh is interested in Sports and Politics
+rajesh.SubscribeToTopic("Sports");
+rajesh.SubscribeToTopic("Politics");
 
-rish.SubscribeToTopic("Sports");
-rish.SubscribeToTopic("Technology");
-rish.SubscribeToTopic("Space");
-rish.SubscribeToTopic("Politics");
+// Priya is interested in Entertainment and Technology
+priya.SubscribeToTopic("Entertainment");
+priya.SubscribeToTopic("Technology");
 
-glory.SubscribeToTopic("Drawing");
-glory.SubscribeToTopic("Singing");
-glory.SubscribeToTopic("Art");
-glory.SubscribeToTopic("Artifacts");
-glory.SubscribeToTopic("Entertainment");
-glory.SubscribeToTopic("Drama");
+// Amit is interested in Sports and Entertainment
+amit.SubscribeToTopic("Sports");
+amit.SubscribeToTopic("Entertainment");
 
-akansha.SubscribeToTopic("Fashion");
-akansha.SubscribeToTopic("Management");
-akansha.SubscribeToTopic("Entertainment");
-akansha.SubscribeToTopic("Hollywood");
+// Neha is interested in Politics and Technology
+neha.SubscribeToTopic("Politics");
+neha.SubscribeToTopic("Technology");
 
-shalini.SubscribeToTopic("Books");
-shalini.SubscribeToTopic("Poetry");
-shalini.SubscribeToTopic("Writing Skills");
-shalini.SubscribeToTopic("Food");
-shalini.SubscribeToTopic("Food");
+// Step 10:- News Agency adds Readers (Subscribers)
+NDTV.Subscribe(rajesh);
+NDTV.Subscribe(amit);
 
-anil.SubscribeToTopic("Politics");
-anil.SubscribeToTopic("Daily feeds");
-anil.SubscribeToTopic("Stocks and Market");
-anil.SubscribeToTopic("Law");
-anil.SubscribeToTopic("Business");
-
-
-// Step 10:- News Agency adds Readers(Subscribers)
-NDTV.Subscribe(rish);
-NDTV.Subscribe(anil);
-
-BBC.Subscribe(rish);
-BBC.Subscribe(glory);
-BBC.Subscribe(akansha);
-BBC.Subscribe(shalini);
-
+BBC.Subscribe(priya);
+BBC.Subscribe(neha);
+BBC.Subscribe(amit);  // Amit subscribes to both news agencies
 
 Console.WriteLine($"\n📊 Subscriber Statistics:");
 Console.WriteLine($"BBC News has {BBC.GetSubscriberCount()} active listeners");
 Console.WriteLine($"NDTV has {NDTV.GetSubscriberCount()} active listeners\n");
-
 
 // Step 11: Publish different types of news
 Console.WriteLine("=== PUBLISHING NEWS ARTICLES ===\n");
@@ -105,24 +86,27 @@ BBC.PublishNews("Technology", "AI Breakthrough",
 Thread.Sleep(1000);
 
 // Publish Entertainment news
-BBC.PublishNews("Entertainment", "Movie Awards",
+BBC.PublishNews("Entertainment", "Film Awards",
     "Surprise winner takes home best picture at annual awards.");
 Thread.Sleep(1000);
 
-// Publish Sports news from CNN
+// Publish Sports news from NDTV
 NDTV.PublishNews("Sports", "Olympic Updates",
     "New world record set in swimming competition.");
 
+// Publish Technology news from NDTV
+NDTV.PublishNews("Technology", "Smartphone Launch",
+    "Revolutionary new smartphone with advanced features released.");
+
 // Step 12: Demonstrate unsubscribe functionality
 Console.WriteLine("\n=== DEMONSTRATING UNSUBSCRIBE ===\n");
-Console.WriteLine("Bob decides to unsubscribe from Politics news");
-anil.UnsubscribeFromTopic("Politics");
+Console.WriteLine("Amit Patel decides to unsubscribe from Sports news");
+amit.UnsubscribeFromTopic("Sports");
 
-Console.WriteLine("\nPublishing Politics news after Bob unsubscribed:");
-BBC.PublishNews("Politics", "International Summit",
-    "World leaders gather to discuss climate change policies.");
+Console.WriteLine("\nPublishing Sports news after Amit unsubscribed:");
+BBC.PublishNews("Sports", "Cricket Tournament",
+    "India wins the series in a thrilling finish!");
 
 Console.WriteLine("\n=== DEMO COMPLETE ===");
 Console.WriteLine("Press any key to exit...");
 Console.ReadKey();
-
