@@ -1,12 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7C1C36-4665-ED3F-5FE8-F2302800DD39}|6_Smart_Student_System\\6_Smart_Student_System.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\csharp\\day_7\\6_smart_student_system\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EB7C1C36-4665-ED3F-5FE8-F2302800DD39}|6_Smart_Student_System\\6_Smart_Student_System.csproj|solutionrelative:6_smart_student_system\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\6_Smart_Student_System\\Readme.md",
+              "RelativeDocumentMoniker": "6_Smart_Student_System\\Readme.md",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\6_Smart_Student_System\\Readme.md",
+              "RelativeToolTip": "6_Smart_Student_System\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-24T05:58:19.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

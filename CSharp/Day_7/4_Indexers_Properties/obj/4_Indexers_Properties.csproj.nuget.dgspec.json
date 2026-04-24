@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\4_Indexers_Properties\\4_Indexers_Properties.csproj": {}
+    "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\4_Indexers_Properties\\4_Indexers_Properties.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\4_Indexers_Properties\\4_Indexers_Properties.csproj": {
+    "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\4_Indexers_Properties\\4_Indexers_Properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\4_Indexers_Properties\\4_Indexers_Properties.csproj",
+        "projectUniqueName": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\4_Indexers_Properties\\4_Indexers_Properties.csproj",
         "projectName": "4_Indexers_Properties",
-        "projectPath": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\4_Indexers_Properties\\4_Indexers_Properties.csproj",
-        "packagesPath": "C:\\Users\\Prashasti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\4_Indexers_Properties\\obj\\",
+        "projectPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\4_Indexers_Properties\\4_Indexers_Properties.csproj",
+        "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\4_Indexers_Properties\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Prashasti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

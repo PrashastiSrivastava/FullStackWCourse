@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\",
+  "WorkspaceRootPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9F24A37-FED8-6B02-1DC8-9DD6D176FD00}|4_Indexers_Properties\\4_Indexers_Properties.csproj|c:\\users\\prashasti\\desktop\\wipro\\csharp\\day_7\\4_indexers_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F24A37-FED8-6B02-1DC8-9DD6D176FD00}|4_Indexers_Properties\\4_Indexers_Properties.csproj|solutionrelative:4_indexers_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB7C1C36-4665-ED3F-5FE8-F2302800DD39}|6_Smart_Student_System\\6_Smart_Student_System.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\csharp\\day_7\\6_smart_student_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7C1C36-4665-ED3F-5FE8-F2302800DD39}|6_Smart_Student_System\\6_Smart_Student_System.csproj|solutionrelative:6_smart_student_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7C1C36-4665-ED3F-5FE8-F2302800DD39}|6_Smart_Student_System\\6_Smart_Student_System.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\csharp\\day_7\\6_smart_student_system\\searchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7C1C36-4665-ED3F-5FE8-F2302800DD39}|6_Smart_Student_System\\6_Smart_Student_System.csproj|solutionrelative:6_smart_student_system\\searchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7C1C36-4665-ED3F-5FE8-F2302800DD39}|6_Smart_Student_System\\6_Smart_Student_System.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\csharp\\day_7\\6_smart_student_system\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EB7C1C36-4665-ED3F-5FE8-F2302800DD39}|6_Smart_Student_System\\6_Smart_Student_System.csproj|solutionrelative:6_smart_student_system\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchAlgorithms.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\6_Smart_Student_System\\SearchAlgorithms.cs",
+              "RelativeDocumentMoniker": "6_Smart_Student_System\\SearchAlgorithms.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\6_Smart_Student_System\\SearchAlgorithms.cs",
+              "RelativeToolTip": "6_Smart_Student_System\\SearchAlgorithms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:10:57.783Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\4_Indexers_Properties\\Program.cs",
-              "RelativeDocumentMoniker": "4_Indexers_Properties\\Program.cs",
-              "ToolTip": "C:\\Users\\Prashasti\\Desktop\\Wipro\\CSharp\\Day_7\\4_Indexers_Properties\\Program.cs",
-              "RelativeToolTip": "4_Indexers_Properties\\Program.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAUOvtvxcAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\6_Smart_Student_System\\Program.cs",
+              "RelativeDocumentMoniker": "6_Smart_Student_System\\Program.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\6_Smart_Student_System\\Program.cs*",
+              "RelativeToolTip": "6_Smart_Student_System\\Program.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T07:17:43.766Z",
+              "WhenOpened": "2026-04-24T06:10:53.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\6_Smart_Student_System\\Readme.md",
+              "RelativeDocumentMoniker": "6_Smart_Student_System\\Readme.md",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\CSharp\\Day_7\\6_Smart_Student_System\\Readme.md",
+              "RelativeToolTip": "6_Smart_Student_System\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-24T05:58:19.343Z",
               "EditorCaption": ""
             }
           ]

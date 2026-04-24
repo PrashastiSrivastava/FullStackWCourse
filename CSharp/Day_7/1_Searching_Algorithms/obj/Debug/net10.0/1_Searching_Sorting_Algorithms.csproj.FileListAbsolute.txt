@@ -1,0 +1,5 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\1_Searching_Sorting_Algorithms\obj\Debug\net10.0\1_Searching_Sorting_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\1_Searching_Sorting_Algorithms\obj\Debug\net10.0\1_Searching_Sorting_Algorithms.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\1_Searching_Sorting_Algorithms\obj\Debug\net10.0\1_Searching_Sorting_Algorithms.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\1_Searching_Sorting_Algorithms\obj\Debug\net10.0\1_Searching_Sorting_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\1_Searching_Sorting_Algorithms\obj\Debug\net10.0\1_Searching_Sorting_Algorithms.sourcelink.json

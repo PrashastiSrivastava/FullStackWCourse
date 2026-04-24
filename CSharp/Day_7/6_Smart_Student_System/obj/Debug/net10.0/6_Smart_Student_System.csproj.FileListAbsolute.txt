@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\bin\Debug\net10.0\6_Smart_Student_System.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\bin\Debug\net10.0\6_Smart_Student_System.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\bin\Debug\net10.0\6_Smart_Student_System.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\bin\Debug\net10.0\6_Smart_Student_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\bin\Debug\net10.0\6_Smart_Student_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\6_Smart_Student_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\6_Smart_Student_System.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\6_Smart_Student_System.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\6_Smart_Student_System.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\6_Smart_Student_System.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\6_Smart_Student_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\refint\6_Smart_Student_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\6_Smart_Student_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\6_Smart_Student_System.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_7\6_Smart_Student_System\obj\Debug\net10.0\ref\6_Smart_Student_System.dll
