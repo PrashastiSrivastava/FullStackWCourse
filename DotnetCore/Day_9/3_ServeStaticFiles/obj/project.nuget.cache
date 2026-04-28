@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TjrsjlJIc3c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\DotNetCore\\Day_9\\3_ServeStaticFiles\\3_ServeStaticFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rishabh\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.5\\microsoft.netcore.app.ref.10.0.5.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\10.0.5\\microsoft.windowsdesktop.app.ref.10.0.5.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.5\\microsoft.aspnetcore.app.ref.10.0.5.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\10.0.5\\microsoft.netcore.app.host.win-x64.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
