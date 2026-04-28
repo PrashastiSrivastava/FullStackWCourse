@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\3_Events_OrderProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\3_Events_OrderProcessingSystem.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\3_Events_OrderProcessingSystem.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\3_Events_OrderProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\3_Events_OrderProcessingSystem.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\bin\Debug\net10.0\3_Events_OrderProcessingSystem.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\bin\Debug\net10.0\3_Events_OrderProcessingSystem.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\bin\Debug\net10.0\3_Events_OrderProcessingSystem.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\bin\Debug\net10.0\3_Events_OrderProcessingSystem.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\bin\Debug\net10.0\3_Events_OrderProcessingSystem.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\3_Events_OrderProcessingSystem.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\refint\3_Events_OrderProcessingSystem.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\3_Events_OrderProcessingSystem.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\3_Events_OrderProcessingSystem.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\3_Events_OrderProcessingSystem\obj\Debug\net10.0\ref\3_Events_OrderProcessingSystem.dll

@@ -1,0 +1,10 @@
+[2026-04-28 09:33:48] Order Placed - Order #1001 | Customer: John Doe | Amount: $250.50 | Date: 28-04-2026 09:33:47
+[2026-04-28 09:33:50] Order Placed - Order #1002 | Customer: Jane Smith | Amount: $89.99 | Date: 28-04-2026 09:33:49
+[2026-04-28 09:33:52] Order Placed - Order #1003 | Customer: Bob Johnson | Amount: $1250.00 | Date: 28-04-2026 09:33:51
+[2026-04-28 09:36:50] Order Placed - Order #1001 | Customer: Rajesh | Amount: ₹1,250.50 | Date: 28-04-2026 09:36:49
+[2026-04-28 09:36:52] Order Placed - Order #1002 | Customer: Priya | Amount: ₹899.99 | Date: 28-04-2026 09:36:51
+[2026-04-28 09:36:54] Order Placed - Order #1003 | Customer: Amit | Amount: ₹2,500.00 | Date: 28-04-2026 09:36:53
+[2026-04-28 09:36:56] Order Placed - Order #1004 | Customer: Neha | Amount: ₹450.75 | Date: 28-04-2026 09:36:55
+[2026-04-28 09:51:46] Order Placed - Order #1001 | Customer: John Doe | Amount: $250.50 | Date: 28-04-2026 09:51:45
+[2026-04-28 09:51:48] Order Placed - Order #1002 | Customer: Jane Smith | Amount: $89.99 | Date: 28-04-2026 09:51:47
+[2026-04-28 09:51:50] Order Placed - Order #1003 | Customer: Bob Johnson | Amount: $1250.00 | Date: 28-04-2026 09:51:49

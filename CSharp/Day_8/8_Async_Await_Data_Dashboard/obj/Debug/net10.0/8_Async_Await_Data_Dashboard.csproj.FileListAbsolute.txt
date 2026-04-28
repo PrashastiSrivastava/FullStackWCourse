@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\bin\Debug\net10.0\8_Async_Await_Data_Dashboard.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\bin\Debug\net10.0\8_Async_Await_Data_Dashboard.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\bin\Debug\net10.0\8_Async_Await_Data_Dashboard.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\bin\Debug\net10.0\8_Async_Await_Data_Dashboard.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\bin\Debug\net10.0\8_Async_Await_Data_Dashboard.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\8_Async_Await_Data_Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\8_Async_Await_Data_Dashboard.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\8_Async_Await_Data_Dashboard.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\8_Async_Await_Data_Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\8_Async_Await_Data_Dashboard.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\8_Async_Await_Data_Dashboard.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\refint\8_Async_Await_Data_Dashboard.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\8_Async_Await_Data_Dashboard.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\8_Async_Await_Data_Dashboard.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\8_Async_Await_Data_Dashboard\obj\Debug\net10.0\ref\8_Async_Await_Data_Dashboard.dll

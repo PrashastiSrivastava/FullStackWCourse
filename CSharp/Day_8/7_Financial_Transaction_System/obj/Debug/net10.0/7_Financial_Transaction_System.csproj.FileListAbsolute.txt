@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\bin\Debug\net10.0\7_Financial_Transaction_System.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\bin\Debug\net10.0\7_Financial_Transaction_System.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\bin\Debug\net10.0\7_Financial_Transaction_System.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\bin\Debug\net10.0\7_Financial_Transaction_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\bin\Debug\net10.0\7_Financial_Transaction_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\7_Financial_Transaction_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\7_Financial_Transaction_System.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\7_Financial_Transaction_System.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\7_Financial_Transaction_System.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\7_Financial_Transaction_System.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\7_Financial_Transaction_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\refint\7_Financial_Transaction_System.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\7_Financial_Transaction_System.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\7_Financial_Transaction_System.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\7_Financial_Transaction_System\obj\Debug\net10.0\ref\7_Financial_Transaction_System.dll

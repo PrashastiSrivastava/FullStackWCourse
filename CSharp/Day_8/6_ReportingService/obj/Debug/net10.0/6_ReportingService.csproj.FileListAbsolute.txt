@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\bin\Debug\net10.0\6_ReportingService.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\bin\Debug\net10.0\6_ReportingService.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\bin\Debug\net10.0\6_ReportingService.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\bin\Debug\net10.0\6_ReportingService.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\bin\Debug\net10.0\6_ReportingService.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\6_ReportingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\6_ReportingService.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\6_ReportingService.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\6_ReportingService.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\6_ReportingService.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\6_ReportingService.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\refint\6_ReportingService.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\6_ReportingService.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\6_ReportingService.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\6_ReportingService\obj\Debug\net10.0\ref\6_ReportingService.dll

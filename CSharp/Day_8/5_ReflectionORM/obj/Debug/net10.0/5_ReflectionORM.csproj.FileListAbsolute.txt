@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\bin\Debug\net10.0\5_ReflectionORM.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\bin\Debug\net10.0\5_ReflectionORM.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\bin\Debug\net10.0\5_ReflectionORM.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\bin\Debug\net10.0\5_ReflectionORM.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\bin\Debug\net10.0\5_ReflectionORM.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\5_ReflectionORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\5_ReflectionORM.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\5_ReflectionORM.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\5_ReflectionORM.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\5_ReflectionORM.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\5_ReflectionORM.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\refint\5_ReflectionORM.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\5_ReflectionORM.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\5_ReflectionORM.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\5_ReflectionORM\obj\Debug\net10.0\ref\5_ReflectionORM.dll

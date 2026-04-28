@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\bin\Debug\net10.0\4_Generics.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\bin\Debug\net10.0\4_Generics.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\bin\Debug\net10.0\4_Generics.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\bin\Debug\net10.0\4_Generics.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\bin\Debug\net10.0\4_Generics.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\4_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\4_Generics.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\4_Generics.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\4_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\4_Generics.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\4_Generics.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\refint\4_Generics.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\4_Generics.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\4_Generics.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\CSharp\Day_8\4_Generics\obj\Debug\net10.0\ref\4_Generics.dll
