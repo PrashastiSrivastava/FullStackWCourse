@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\5_ADO-Net_EF-Core\u0026ASP-Net-Core-Advanced\\Day_26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A432318A-E906-4807-9116-2AB7E2A151FB}|2_AJAX_ProductPrice\\2_AJAX_ProductPrice.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\5_ado-net_ef-core\u0026asp-net-core-advanced\\day_26\\2_ajax_productprice\\models\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A432318A-E906-4807-9116-2AB7E2A151FB}|2_AJAX_ProductPrice\\2_AJAX_ProductPrice.csproj|solutionrelative:2_ajax_productprice\\models\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A432318A-E906-4807-9116-2AB7E2A151FB}|2_AJAX_ProductPrice\\2_AJAX_ProductPrice.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\5_ado-net_ef-core\u0026asp-net-core-advanced\\day_26\\2_ajax_productprice\\views\\product\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A432318A-E906-4807-9116-2AB7E2A151FB}|2_AJAX_ProductPrice\\2_AJAX_ProductPrice.csproj|solutionrelative:2_ajax_productprice\\views\\product\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A432318A-E906-4807-9116-2AB7E2A151FB}|2_AJAX_ProductPrice\\2_AJAX_ProductPrice.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\5_ado-net_ef-core\u0026asp-net-core-advanced\\day_26\\2_ajax_productprice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A432318A-E906-4807-9116-2AB7E2A151FB}|2_AJAX_ProductPrice\\2_AJAX_ProductPrice.csproj|solutionrelative:2_ajax_productprice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A432318A-E906-4807-9116-2AB7E2A151FB}|2_AJAX_ProductPrice\\2_AJAX_ProductPrice.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\5_ado-net_ef-core\u0026asp-net-core-advanced\\day_26\\2_ajax_productprice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A432318A-E906-4807-9116-2AB7E2A151FB}|2_AJAX_ProductPrice\\2_AJAX_ProductPrice.csproj|solutionrelative:2_ajax_productprice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\5_ADO-Net_EF-Core\u0026ASP-Net-Core-Advanced\\Day_26\\2_AJAX_ProductPrice\\Views\\Product\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "2_AJAX_ProductPrice\\Views\\Product\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\5_ADO-Net_EF-Core\u0026ASP-Net-Core-Advanced\\Day_26\\2_AJAX_ProductPrice\\Views\\Product\\Index.cshtml.cs",
+              "RelativeToolTip": "2_AJAX_ProductPrice\\Views\\Product\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:31:31.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\5_ADO-Net_EF-Core\u0026ASP-Net-Core-Advanced\\Day_26\\2_AJAX_ProductPrice\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "2_AJAX_ProductPrice\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\5_ADO-Net_EF-Core\u0026ASP-Net-Core-Advanced\\Day_26\\2_AJAX_ProductPrice\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "2_AJAX_ProductPrice\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T19:29:50.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\5_ADO-Net_EF-Core\u0026ASP-Net-Core-Advanced\\Day_26\\2_AJAX_ProductPrice\\Models\\ProductController.cs",
+              "RelativeDocumentMoniker": "2_AJAX_ProductPrice\\Models\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\5_ADO-Net_EF-Core\u0026ASP-Net-Core-Advanced\\Day_26\\2_AJAX_ProductPrice\\Models\\ProductController.cs",
+              "RelativeToolTip": "2_AJAX_ProductPrice\\Models\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:28:08.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\5_ADO-Net_EF-Core\u0026ASP-Net-Core-Advanced\\Day_26\\2_AJAX_ProductPrice\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "2_AJAX_ProductPrice\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\5_ADO-Net_EF-Core\u0026ASP-Net-Core-Advanced\\Day_26\\2_AJAX_ProductPrice\\Models\\Product.cs",
+              "RelativeToolTip": "2_AJAX_ProductPrice\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:27:38.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
