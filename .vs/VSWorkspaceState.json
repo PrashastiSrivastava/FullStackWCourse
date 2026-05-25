@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CSharp",
-    "\\CSharp\\Day_4"
+    "\\CSharp\\Day_4",
+    "\\DotnetCore",
+    "\\DotnetCore\\Day_9"
   ],
+  "SelectedNode": "\\DotnetCore\\Day_9\\Day_9.sln",
   "PreviewInSolutionExplorer": false
 }
