@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\refint\LibraryManagementSys.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice-Assignment-2\LibraryManagementSys\obj\Debug\net8.0\ref\LibraryManagementSys.dll

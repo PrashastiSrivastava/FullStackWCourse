@@ -1,0 +1,12 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\bin\Debug\net8.0\CalculatorLib.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\bin\Debug\net8.0\CalculatorLib.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\bin\Debug\net8.0\CalculatorLib.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\obj\Debug\net8.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\obj\Debug\net8.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\obj\Debug\net8.0\CalculatorLib.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\obj\Debug\net8.0\CalculatorLib.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\obj\Debug\net8.0\refint\CalculatorLib.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\obj\Debug\net8.0\CalculatorLib.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10-Practice_Assignment-1\Calculator\CalculatorLib\obj\Debug\net8.0\ref\CalculatorLib.dll

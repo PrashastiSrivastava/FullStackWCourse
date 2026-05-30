@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10-Practice_Assignment-1\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAC696D-5CE3-4B4C-95B1-2EB3CFE446BD}|CalculatorLib.Tests\\CalculatorLib.Tests.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\2_advanced_csharp_and_introduction_to_dotnet\\day_10\\day_10-practice_assignment-1\\calculator\\calculatorlib.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAC696D-5CE3-4B4C-95B1-2EB3CFE446BD}|CalculatorLib.Tests\\CalculatorLib.Tests.csproj|solutionrelative:calculatorlib.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575A3E72-90D8-4AE6-8A09-5723BCC88831}|Solution Items{575A3E72-90D8-4AE6-8A09-5723BCC88831}|C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10-Practice_Assignment-1\\Calculator\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{575A3E72-90D8-4AE6-8A09-5723BCC88831}|Solution Items{575A3E72-90D8-4AE6-8A09-5723BCC88831}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17DEB01-06AB-4BE6-BAA4-F6EB5637F5DC}|CalculatorLib\\CalculatorLib.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\2_advanced_csharp_and_introduction_to_dotnet\\day_10\\day_10-practice_assignment-1\\calculator\\calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17DEB01-06AB-4BE6-BAA4-F6EB5637F5DC}|CalculatorLib\\CalculatorLib.csproj|solutionrelative:calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10-Practice_Assignment-1\\Calculator\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10-Practice_Assignment-1\\Calculator\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-30T10:33:45.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10-Practice_Assignment-1\\Calculator\\CalculatorLib.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorLib.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10-Practice_Assignment-1\\Calculator\\CalculatorLib.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "CalculatorLib.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:31:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10-Practice_Assignment-1\\Calculator\\CalculatorLib\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorLib\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10-Practice_Assignment-1\\Calculator\\CalculatorLib\\Calculator.cs",
+              "RelativeToolTip": "CalculatorLib\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:31:27.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

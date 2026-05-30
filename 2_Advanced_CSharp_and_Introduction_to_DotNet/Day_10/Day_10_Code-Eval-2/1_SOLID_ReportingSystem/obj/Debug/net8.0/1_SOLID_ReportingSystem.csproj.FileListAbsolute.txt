@@ -1,0 +1,15 @@
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\bin\Debug\net8.0\1_SOLID_ReportingSystem.exe
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\bin\Debug\net8.0\1_SOLID_ReportingSystem.deps.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\bin\Debug\net8.0\1_SOLID_ReportingSystem.runtimeconfig.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\bin\Debug\net8.0\1_SOLID_ReportingSystem.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\bin\Debug\net8.0\1_SOLID_ReportingSystem.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\1_SOLID_ReportingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\1_SOLID_ReportingSystem.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\1_SOLID_ReportingSystem.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\1_SOLID_ReportingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\1_SOLID_ReportingSystem.sourcelink.json
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\1_SOLID_ReportingSystem.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\refint\1_SOLID_ReportingSystem.dll
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\1_SOLID_ReportingSystem.pdb
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\1_SOLID_ReportingSystem.genruntimeconfig.cache
+C:\Users\Rishabh\Documents\Wipro_Skilling\2_Advanced_CSharp_and_Introduction_to_DotNet\Day_10\Day_10_Code-Eval-2\1_SOLID_ReportingSystem\obj\Debug\net8.0\ref\1_SOLID_ReportingSystem.dll

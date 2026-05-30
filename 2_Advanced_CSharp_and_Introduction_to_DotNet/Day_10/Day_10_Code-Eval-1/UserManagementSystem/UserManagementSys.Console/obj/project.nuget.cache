@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4SSRQP1JRkw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-1\\UserManagementSystem\\UserManagementSys.Console\\UserManagementSys.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rishabh\\.nuget\\packages\\serilog\\4.3.1\\serilog.4.3.1.nupkg.sha512",
+    "C:\\Users\\Rishabh\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

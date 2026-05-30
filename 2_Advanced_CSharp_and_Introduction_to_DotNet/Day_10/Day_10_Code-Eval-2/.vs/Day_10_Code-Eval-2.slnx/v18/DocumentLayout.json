@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9ACB7-1A4C-4E14-87B5-56404E5AF98F}|2_ObserverPattern_WeatherStation\\2_ObserverPattern_WeatherStation.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\2_advanced_csharp_and_introduction_to_dotnet\\day_10\\day_10_code-eval-2\\2_observerpattern_weatherstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9ACB7-1A4C-4E14-87B5-56404E5AF98F}|2_ObserverPattern_WeatherStation\\2_ObserverPattern_WeatherStation.csproj|solutionrelative:2_observerpattern_weatherstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9ACB7-1A4C-4E14-87B5-56404E5AF98F}|2_ObserverPattern_WeatherStation\\2_ObserverPattern_WeatherStation.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\2_advanced_csharp_and_introduction_to_dotnet\\day_10\\day_10_code-eval-2\\2_observerpattern_weatherstation\\weatherdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9ACB7-1A4C-4E14-87B5-56404E5AF98F}|2_ObserverPattern_WeatherStation\\2_ObserverPattern_WeatherStation.csproj|solutionrelative:2_observerpattern_weatherstation\\weatherdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9ACB7-1A4C-4E14-87B5-56404E5AF98F}|2_ObserverPattern_WeatherStation\\2_ObserverPattern_WeatherStation.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\2_advanced_csharp_and_introduction_to_dotnet\\day_10\\day_10_code-eval-2\\2_observerpattern_weatherstation\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9ACB7-1A4C-4E14-87B5-56404E5AF98F}|2_ObserverPattern_WeatherStation\\2_ObserverPattern_WeatherStation.csproj|solutionrelative:2_observerpattern_weatherstation\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9ACB7-1A4C-4E14-87B5-56404E5AF98F}|2_ObserverPattern_WeatherStation\\2_ObserverPattern_WeatherStation.csproj|c:\\users\\rishabh\\documents\\wipro_skilling\\2_advanced_csharp_and_introduction_to_dotnet\\day_10\\day_10_code-eval-2\\2_observerpattern_weatherstation\\iweatherobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9ACB7-1A4C-4E14-87B5-56404E5AF98F}|2_ObserverPattern_WeatherStation\\2_ObserverPattern_WeatherStation.csproj|solutionrelative:2_observerpattern_weatherstation\\iweatherobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-2\\2_ObserverPattern_WeatherStation\\WeatherDisplay.cs",
+              "RelativeDocumentMoniker": "2_ObserverPattern_WeatherStation\\WeatherDisplay.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-2\\2_ObserverPattern_WeatherStation\\WeatherDisplay.cs",
+              "RelativeToolTip": "2_ObserverPattern_WeatherStation\\WeatherDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:56:17.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherStation.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-2\\2_ObserverPattern_WeatherStation\\WeatherStation.cs",
+              "RelativeDocumentMoniker": "2_ObserverPattern_WeatherStation\\WeatherStation.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-2\\2_ObserverPattern_WeatherStation\\WeatherStation.cs",
+              "RelativeToolTip": "2_ObserverPattern_WeatherStation\\WeatherStation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:56:08.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWeatherObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-2\\2_ObserverPattern_WeatherStation\\IWeatherObserver.cs",
+              "RelativeDocumentMoniker": "2_ObserverPattern_WeatherStation\\IWeatherObserver.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-2\\2_ObserverPattern_WeatherStation\\IWeatherObserver.cs",
+              "RelativeToolTip": "2_ObserverPattern_WeatherStation\\IWeatherObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:55:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-2\\2_ObserverPattern_WeatherStation\\Program.cs",
+              "RelativeDocumentMoniker": "2_ObserverPattern_WeatherStation\\Program.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\Documents\\Wipro_Skilling\\2_Advanced_CSharp_and_Introduction_to_DotNet\\Day_10\\Day_10_Code-Eval-2\\2_ObserverPattern_WeatherStation\\Program.cs",
+              "RelativeToolTip": "2_ObserverPattern_WeatherStation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:55:40.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
